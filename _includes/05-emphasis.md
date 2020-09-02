@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_The way to get started is to quit talking and begin doing_ -Walt Disney
+
+_It is during our darkest moments that we must **focus** to see the light._ -Aristotle
